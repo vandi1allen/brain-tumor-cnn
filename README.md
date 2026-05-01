@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resourc
 3. Click "Download"
 4. Extract the files into the project directory:
 
+The dataset consists of MRI brain scans categorized into different classes (e.g., tumor vs non-tumor), used to train a CNN for classification.
 
 Instructions:
 1. Open the .ipynb file in Google Colab
