@@ -1,5 +1,18 @@
 Project: CNN-Based Brain Tumor Classification
 
+## Dataset
+
+This project uses the MRI dataset from Kaggle:
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download
+
+### How to Download
+1. Create a Kaggle account if you don’t have one
+2. Go to the dataset link above
+3. Click "Download"
+4. Extract the files into the project directory:
+
+
 Instructions:
 1. Open the .ipynb file in Google Colab
 2. Mount Google Drive if dataset is stored there
